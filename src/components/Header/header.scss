@@ -1,0 +1,67 @@
+.header-background {
+  margin-top: 0px;
+  margin-left: -650px;
+  width: 1368px;
+  height: 963px;
+  background: url("Home-Hero-Image.jpg");
+  background-size: cover;
+  position:relative;
+}
+
+
+.header-decor {
+  position: absolute;
+  background: url("Decoration.svg");
+  top: 474px;
+  left: 1500px;
+  width: 253px;
+  height: 33px;
+}
+
+.header-title {
+  position: absolute;
+  text-align: center;
+  font-size: 38px;
+  letter-spacing: -0.76px;
+  color: #3C3C3C;
+  opacity: 1;
+  top: 342px;
+  left: 1300px;
+  width: 672px;
+  height: 107px;
+}
+
+.header-button-give {
+  position: absolute;
+  top: 585px;
+  left: 1450px;
+  width: 124px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: lighter;
+  letter-spacing: 0;
+  color: #3C3C3C;
+  opacity: 1;
+  border: 0.75px solid #3C3C3C;
+  padding: 15px;
+}
+
+.header-button-organize {
+  position: absolute;
+  top: 585px;
+  left: 1600px;
+  width: 208px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: lighter;
+  letter-spacing: 0;
+  color: #3C3C3C;
+  opacity: 1;
+  border: 0.75px solid #3C3C3C;
+  padding: 15px;
+}
+
+.header-button {
+  text-decoration: none;
+  color: #3C3C3C;
+}

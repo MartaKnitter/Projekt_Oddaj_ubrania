@@ -1,0 +1,117 @@
+.fundactions-title-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  .fundactions-title {
+    padding-top: 40px;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: -0.76px;
+    color: #3C3C3C;
+    opacity: 1;
+  }
+
+  .fundactions-decor {
+    width: 253px;
+    height: 33px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+
+}
+
+.fundactions-button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .fundactions-button {
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    color: #3C3C3C;
+    opacity: 1;
+    background-color: Transparent;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+    &:hover {
+      border: 1px solid #3C3C3C;
+      cursor: pointer;
+      outline: none;
+    }
+  }
+}
+
+.fundactions-paragraph {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  padding-right: 350px;
+  padding-left: 350px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #3C3C3C;
+  outline: none;
+}
+
+.position-container {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+
+  .position-title {
+    font-family: Merriweather;
+    font-size: 26px;
+    font-weight: lighter;
+    color: #3C3C3C;
+  }
+
+  .position-description {
+    font-size: 18px;
+    color: #3C3C3C;
+  }
+}
+
+#fund-button {
+  &:hover {
+    border: 1px solid #3C3C3C;
+    cursor: pointer;
+    outline: none;
+  }
+}
+
+.fundactions-line {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.paginate {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.paginate-item {
+  display: flex;
+  padding: 15px;
+  margin-top: 20px;
+  margin-right: 5px;
+  &:hover {
+    border: 1px solid #3C3C3C;
+  }
+
+}

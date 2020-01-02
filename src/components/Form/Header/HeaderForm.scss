@@ -1,0 +1,74 @@
+.header-form-background {
+  margin-top: 0px;
+  margin-left: -650px;
+  width: 1368px;
+  height: 963px;
+  background: url("Form-Hero-Image.jpg");
+  background-size: cover;
+  position:relative;
+}
+
+
+.header-decor {
+  position: absolute;
+  background: url("Decoration.svg");
+  top: 400px;
+  left: 1500px;
+  width: 253px;
+  height: 33px;
+}
+
+.header-title {
+  position: absolute;
+  text-align: center;
+  font-size: 38px;
+  letter-spacing: -0.76px;
+  color: #3C3C3C;
+  opacity: 1;
+  top: 300px;
+  left: 1300px;
+  width: 672px;
+  height: 107px;
+}
+
+.header-form-subtitle {
+  position: absolute;
+  text-align: center;
+  font-size: 38px;
+  letter-spacing: -0.76px;
+  color: #3C3C3C;
+  top: 470px;
+  left: 1300px;
+  width: 672px;
+  height: 107px;
+  font-weight: lighter;
+}
+
+.form-steps {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  text-align: center;
+  font-size: 20px;
+  letter-spacing: -0.76px;
+  color: #3C3C3C;
+  top: 560px;
+  left: 1300px;
+  width: 672px;
+  height: 107px;
+  font-weight: lighter;
+
+  .form-one-step {
+    padding: 20px 10px 20px 10px;
+    position: relative;
+    border: 1px solid black;
+    width: 100px;
+    margin: 10px;
+  }
+
+  .form-number {
+    font-weight: bolder;
+    padding-bottom: 5px;
+  }
+}

@@ -1,0 +1,52 @@
+.about-container {
+  background-color: #F0F1F1;
+  background-image: url("../assets/People.jpg");
+  background-repeat: no-repeat;
+  background-position: 700px;
+  background-size: cover;
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: baseline;
+}
+
+.about-text {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  margin-left: 150px;
+
+
+  .about-title {
+    padding-top: 40px;
+    font-size: 38px;
+    letter-spacing: -0.76px;
+    color: #3C3C3C;
+    opacity: 1;
+    text-align: center;
+  }
+
+  .about-paragraph {
+    text-align: center;
+    line-height: 35px;
+  }
+
+  .about-decor {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .about-signature {
+    width: 150px;
+    margin-left: 250px;
+  }
+
+}
+
+
+.about-photo {
+  margin-right: -650px;
+}

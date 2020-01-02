@@ -1,0 +1,129 @@
+{
+  "fundactions": [
+  {
+    "id": 1,
+    "name": "Fundacja “Dbam o Zdrowie”",
+    "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+    "kind": "ubrania, jedzenie, sprzęt AGD, meble, zabawki"
+  },
+
+  {
+    "id": 2,
+    "name": "Fundacja “Zdrówko",
+    "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+    "kind": "jedzenie"
+  },
+
+  {
+    "id": 3,
+    "name": "Fundacja “Dla dzieci”",
+    "description": "Cel i misja: Zbieranie zreczy dla dzieci.",
+    "kind": "zabawki, ubrania"
+  },
+
+  {
+    "id": 4,
+    "name": "Fundacja “Zdrówko”",
+    "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+    "kind": "jedzenie"
+  },
+
+  {
+    "id": 5,
+    "name": "Fundacja “Zdrówko”",
+    "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+    "kind": "jedzenie"
+  },
+
+  {
+    "id": 6,
+    "name": "Fundacja “Zdrówko”",
+    "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+    "kind": "jedzenie"
+  },
+
+  {
+    "id": 7,
+    "name": "Fundacja “Zdrówko”",
+    "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+    "kind": "jedzenie"
+  },
+
+  {
+    "id": 8,
+    "name": "Fundacja “Zdrówko”",
+    "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+    "kind": "jedzenie"
+  },
+    {
+      "id": 9,
+      "name": "Fundacja “Zdrówko”",
+      "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+      "kind": "jedzenie"
+    }
+  ],
+"organizations": [
+{
+  "id": 1,
+  "name": "Organizacja Pomagam",
+  "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+  "kind": "jedzenie, ubrania"
+},
+
+{
+  "id": 2,
+  "name": "Organizacja Grosik",
+  "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji finansowej.",
+  "kind": "wpłaty, darowizny"
+},
+
+{
+  "id": 3,
+  "name": "Organizacja Pegaz",
+  "description": "Cel i misja: Pomoc samotnym matkom",
+  "kind": "wpłaty, darowizny"
+},
+  {
+    "id": 4,
+    "name": "Organizacja Promyk",
+    "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+    "kind": "jedzenie, ubrania"
+  },
+
+  {
+    "id": 5,
+    "name": "Organizacja Ciuch",
+    "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji finansowej.",
+    "kind": "ubrania"
+  },
+
+  {
+    "id": 6,
+    "name": "Organizacja Pegaz",
+    "description": "Cel i misja: Pomoc samotnym matkom",
+    "kind": "wpłaty, darowizny"
+  }
+],
+  "local": [
+    {
+      "id": 1,
+      "name": "Zbiórka Saska-Kępa",
+      "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+      "kind": "jedzenie, ubrania"
+    },
+
+    {
+      "id": 2,
+      "name": "Zbiórka Ursynów",
+      "description": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji finansowej.",
+      "kind": "wpłaty, darowizny"
+    },
+
+    {
+      "id": 3,
+      "name": "Zbiórka Wawer",
+      "description": "Cel i misja: Pomoc samotnym matkom",
+      "kind": "wpłaty, darowizny"
+    }
+    ]
+}

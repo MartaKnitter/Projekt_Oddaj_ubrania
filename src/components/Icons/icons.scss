@@ -1,0 +1,86 @@
+.icons-title-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  .icons-title {
+    padding-top: 40px;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: -0.76px;
+    color: #3C3C3C;
+    opacity: 1;
+  }
+
+  .icons-decor {
+    width: 253px;
+    height: 33px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+
+}
+
+.icons-container {
+  background-color: #F0F1F1;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+
+  .one-icon-container {
+    padding: 80px 40px 80px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 200px;
+    text-align: center;
+  }
+
+  .icons {
+    width: 83px;
+    height: 83px;
+  }
+
+  .icons-subtitle {
+    font-size: 18px;
+    color: #3C3C3C;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+  }
+
+  .icons-line {
+    width: 50px;
+    border-top: 1px solid #3C3C3C;
+  }
+
+  .icons-paragraph {
+    font-size: 16px;
+    color: #3C3C3C;
+    padding-top: 10px;
+  }
+}
+
+/// BUTTON
+
+.icons-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-give {
+  text-align: center;
+  font-size: 32px;
+  font-weight: lighter;
+  letter-spacing: 0;
+  color: #3C3C3C;
+  opacity: 1;
+  border: 0.75px solid #3C3C3C;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 15px 35px 15px 35px;
+  text-decoration: none;
+}

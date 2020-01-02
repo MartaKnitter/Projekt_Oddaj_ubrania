@@ -1,0 +1,18 @@
+.footer-container {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  .footer-icons {
+    display: flex;
+    position: absolute;
+    right: 100px;
+  }
+
+  .footer-instagram {
+    padding-right: 10px;
+  }
+
+}

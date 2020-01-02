@@ -1,0 +1,44 @@
+.step-one-background {
+  background: url("../../../assets/Background-Form.jpg");
+  background-size: cover;
+  height: 500px;
+  padding: 40px 200px 40px 200px;
+  display: block;
+
+  .step-one-title {
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 30px;
+    padding-top: 40px;
+  }
+
+  .step-one-text{
+    padding-right: 10px;
+  }
+
+  .step-one-select-container{
+    display: flex;
+  }
+
+  .step-one-select{
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: lighter;
+    height: 40px;
+    width: 150px;
+  }
+
+  .step-one-option {
+    padding: 10px;
+    font-weight: lighter;
+  }
+
+  .step-one-button{
+    border: 1px solid black;
+    padding: 10px 30px 10px 30px;
+    background: transparent;
+    font-size: 20px;
+    margin-right: 30px;
+    margin-top: 300px;
+  }
+}
